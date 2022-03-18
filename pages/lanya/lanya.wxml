@@ -1,0 +1,5 @@
+<!--pages/index/lanya.wxml-->
+
+<view wx:for="{{array}}" class='size' bindtap='sub' id="{{item.deviceId}}">
+{{item.deviceId}}--{{item.name}}
+</view>

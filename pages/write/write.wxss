@@ -1,0 +1,5 @@
+/* pages/write/write.wxss */
+input{
+  border: solid;
+  width: 100%;
+}

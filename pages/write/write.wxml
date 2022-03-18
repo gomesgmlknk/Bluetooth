@@ -1,0 +1,7 @@
+<!--index.wxml-->
+<view class="container">
+<form bindsubmit="formSubmit">  
+<input  name="psw"></input>
+<button type="primary" formType="submit">发送指令</button>
+</form>
+</view>

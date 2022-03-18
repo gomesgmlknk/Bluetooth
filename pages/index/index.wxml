@@ -1,0 +1,4 @@
+<!--index.wxml-->
+<view class="container">
+<button type="primary" bindtap='lanya'>搜索设备</button>
+</view>

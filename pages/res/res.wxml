@@ -1,0 +1,6 @@
+<!--pages/res/res.wxml-->
+
+<view wx:for="{{array}}" id="{{item.uuid}}" bindtap='sub'>
+{{item.uuid}}
+
+</view>
